@@ -1,2 +1,2 @@
 Stasi tactic.
-Python & DeepSeek.
+
